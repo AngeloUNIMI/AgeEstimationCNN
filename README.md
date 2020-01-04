@@ -2,7 +2,9 @@
 
 Matlab source code for the paper:
 
-	Age estimation based on face images and pre-trained Convolutional Neural Networks, 2017 IEEE Symp. on Computational Intelligence for Security and Defense Applications (CISDA 2017), Honolulu, HI, USA, November 27–30, 2017
+	Age estimation based on face images and pre-trained Convolutional Neural Networks, 
+    2017 IEEE Symp. on Computational Intelligence for Security and Defense Applications (CISDA 2017),
+    Honolulu, HI, USA, November 27–30, 2017
 	
 Project page:
 
