@@ -1,0 +1,7 @@
+- ./AgeDB: 
+    Database of images downloaded from: 
+    https://ibug.doc.ic.ac.uk/resources/agedb/
+    The structure of the folders must be:
+    "./AgeDB/0_MariaCallas_35_f.jpg"
+    etc.
+    
