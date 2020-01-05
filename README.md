@@ -13,7 +13,7 @@ Project page:
 Citation:
 
     @INPROCEEDINGS{8285381,
-        author={A. {Anand} and R. D. {Labati} and A. {Genovese} and E. {Muñoz} and V. {Piuri} and F. {Scotti}},
+        author={A. {Anand} and R. {Donida Labati} and A. {Genovese} and E. {Muñoz} and V. {Piuri} and F. {Scotti}},
         booktitle={2017 IEEE Symposium Series on Computational Intelligence (SSCI)},
         title={Age estimation based on face images and pre-trained convolutional neural networks},
         year={2017},
