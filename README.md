@@ -6,6 +6,10 @@ Matlab source code for the paper:
 	2017 IEEE Symp. on Computational Intelligence for Security and Defense Applications (CISDA 2017),
 	Honolulu, HI, USA, November 27–30, 2017
 	
+Paper:
+
+https://ieeexplore.ieee.org/document/8285381
+	
 Project page:
 
 http://iebil.di.unimi.it/projects/softbio
