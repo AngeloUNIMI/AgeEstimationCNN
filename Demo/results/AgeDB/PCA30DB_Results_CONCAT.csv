@@ -1,0 +1,4 @@
+
+TrainFeature TestFeature Classname LearnAlgo #N MAE  Epochs
+
+FFNN	trainscg	 15	7.669860	2000	
