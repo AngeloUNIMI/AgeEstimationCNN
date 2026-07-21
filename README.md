@@ -8,7 +8,7 @@ Matlab source code for the paper:
 	
 Project page:
 
-http://iebil.di.unimi.it/projects/softbio
+https://iebil.di.unimi.it/index.php?page=project&id=22
 
 Citation:
 
